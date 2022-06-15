@@ -11,6 +11,6 @@
 <a href="https://instagram.com/ndth4ng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ndth4ng/" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndth4ng&layout=compact" alt="ndth4ng" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndth4ng&layout=compact" alt="ndth4ng" /></p>
 
 
